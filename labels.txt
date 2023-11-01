@@ -1,0 +1,5 @@
+0 cubo
+1 relógio
+2 grampeador
+3 unoGrogu
+4 chave
